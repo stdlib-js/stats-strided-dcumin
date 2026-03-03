@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-03)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`09bcd1e`](https://github.com/stdlib-js/stdlib/commit/09bcd1e668dda1e87e29d1464190833054906e09) - **test:** fix handling of negative zero [(#10649)](https://github.com/stdlib-js/stdlib/pull/10649) _(by Siddhartha Mondal)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Siddhartha Mondal
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-07)
